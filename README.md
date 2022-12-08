@@ -32,6 +32,6 @@
 ### Minimum Viable Product (MVP) definition
 
 * Front page of website 
-* Functionality of Simon game
+* Functionality of CosmoDog game(dog has to avoid objects to progress further and increases score based on time)
 * Player scoreboard
 * Form input for players High Scores
